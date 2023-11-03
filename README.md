@@ -14,7 +14,7 @@
   <img align="center" alt="lang-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="lang-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   
-  <img align="right" alt="profile-pic" height="150" src="https://user-images.githubusercontent.com/101117204/160231535-fd780ce1-ed35-4d56-a81a-43da45e06692.jpg">
+  <img align="right" alt="profile-pic" height="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/101117204/280397469-91c0cade-a4e9-4c1f-b204-3184bae52c76.jpg">
 </div>
 
   ##
