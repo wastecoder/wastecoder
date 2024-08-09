@@ -22,7 +22,11 @@
 <div>
   <a href = "mailto:paulinomendes03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discordapp.com/users/249721876039860224" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/wastecoder/wastecoder/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
