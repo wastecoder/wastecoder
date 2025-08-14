@@ -4,6 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wastecoder&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+
 <div style="display: inline_block">
   <br>
   <img align="center" alt="lang-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,6 +14,10 @@
   <img align="center" alt="lang-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="lang-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
   <img align="center" alt="lang-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+  <img align="center" alt="framework-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="lang-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="lang-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+
   
   <img align="right" alt="profile-pic" height="150" src="https://github-production-user-asset-6210df.s3.amazonaws.com/101117204/280397469-91c0cade-a4e9-4c1f-b204-3184bae52c76.jpg">
 </div>
@@ -20,8 +25,16 @@
   ##
 
 <div>
-  <a href = "mailto:paulinomendes03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/249721876039860224" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:pedromendes7182@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://discordapp.com/users/249721876039860224" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/pedromendes7182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake-dark.svg">
