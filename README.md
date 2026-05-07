@@ -144,3 +144,25 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="wastecoder's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wastecoder&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
+
+<details open>
+  <summary><h2>🎮 3D Contribution Graph</h2></summary>
+
+  <!-- GitHub Profile 3D Contrib: https://github.com/yoshi389111/github-profile-3d-contrib -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/wastecoder/wastecoder/profile-3d-output/profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" />
+  </p>
+
+  <!--
+    Versão antiga (snake contribution graph) — mantida comentada para retorno futuro.
+    Para reativar:
+      1) No repo wastecoder/wastecoder, em Actions → workflow do snake → "Enable workflow".
+      2) Descomente o bloco <picture> abaixo.
+
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wastecoder/wastecoder/output/github-contribution-grid-snake.svg">
+    </picture>
+  -->
+</details>
